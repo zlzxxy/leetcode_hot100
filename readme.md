@@ -1,7 +1,28 @@
 # LeetCode Hot 100
 
-> 这是我的 LeetCode Hot 100 刷题记录仓库，主要使用 **C++** 实现。  
-> 目标：通过 Hot 100 系统复习常见算法题型，为实习面试打基础。
+
+## 仓库结构
+
+```text
+.
+├── README.md
+├── hash/
+├── two_pointers/
+├── sliding_window/
+├── array/
+├── matrix/
+├── linked_list/
+├── binary_tree/
+├── graph/
+├── backtracking/
+├── binary_search/
+├── stack/
+├── heap/
+├── greedy/
+├── dp/
+├── multidimensional_dp/
+└── tricks/
+```
 
 ---
 
